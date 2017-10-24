@@ -22,11 +22,11 @@ void demoOpenWrite();
 // begin main
 int main() {
 
-//    demoOpenCloseStreams();
-//    cin.ignore();
+    demoOpenCloseStreams();
+    cin.ignore();
 
-//    demoOpenPrint();
-//    cin.ignore();
+    demoOpenPrint();
+    cin.ignore();
 
     demoOpenWrite();
     cin.ignore();
